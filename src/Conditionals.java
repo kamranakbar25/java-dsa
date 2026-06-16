@@ -1,4 +1,5 @@
-package PACKAGE_NAME;
-
 public class Conditionals {
+    static void main(){
+
+    }
 }
