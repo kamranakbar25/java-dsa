@@ -6,6 +6,15 @@ out/
 .kotlin
 .idea
 
+
+@"
+.idea/
+out/
+*.iml
+*.class
+"@ | Set-Content .gitignore
+
+
 ### Eclipse ###
 .apt_generated
 .classpath
